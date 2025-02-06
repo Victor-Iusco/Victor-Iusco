@@ -61,6 +61,6 @@ a second-year student passionate about technology! I'm diving into the world of 
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,arch"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,arch,fedora"/></td>
     </tr>
 </table>
